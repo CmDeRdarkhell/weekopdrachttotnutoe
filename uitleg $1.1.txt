@@ -1,0 +1,44 @@
+Browser
+Een programma dat gebruikt wordt om webpagina's te bekijken
+
+
+Client Computer
+Dit is de pc waarop je een webpagina opzoekt
+
+
+HTML
+Een taal waarin geschreven wordt hoe een webpagina er uit moet zien.
+
+
+HTML-bestand(en)
+Een bestand dat de code voor de gevraagde webpagina bevat.
+
+
+HTTP
+Een protocol uit de applicatie-laag die er voor zorgt dat de communicatie
+tussen een client en een webserver goed verloopt,
+hierin zijn bijvoorbeeld de 'requests' beschreven.
+
+
+Netwerk/internet
+Een netwerk dat bestaat uit allerlei computersystemen en servers.
+
+
+Rendering engine
+Een onderdeel van de browser dat ervoor zorgt dat de code gevisualiseerd en uitgevoerd wordt.
+
+
+Root folder (server)
+Een 'directory' die de locatie van alle bestanden op de server beschrijft.
+
+
+Server computer
+Een computer of programma dat diensten verleent aan clients.
+
+
+TCP/IP
+Een neterwerk-gerelateerd protcol, dat de verbinding opzet met de server door middel van IP adressen
+
+
+Webserver
+een programma dat verzoeken ontvant en documenten naar clients stuurt.

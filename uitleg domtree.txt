@@ -1,0 +1,14 @@
+Mijn javascript zorgt er voor dat de afbeelding "kappa" op en neer beweegt over de x as.
+Ook zorgt mijn javascript er voor dat er een random getal word gegenerate en word gebruikt als achtergrond.
+
+Ik wilde er ook nog een spel van maken alleen het was moeilijker dan verwacht om het werkend te krijgen.
+
+Dus, de DOM tree heeft met mijn javascript te maken omdat:
+
+-	De positie van de afbeelding "kappa" word gewijzigd met een x waarden, (en door javascript repeat dit).
+
+-	De achtergrond kleur veranderd de hele tijd door een random waarde (de generator is gevonden op het internet,
+	als ik meer kennis had van javascript zou ik het zelf verzonnen kunnen hebben).
+
+
+(ps. mijn site is bijna het zelfde als die van bas, ik had tijdens 1.2 geen laptop en had met hem samen deze site gemaakt)
