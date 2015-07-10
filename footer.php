@@ -1,1 +1,1 @@
-<div id="footer">&copy;2014 Joep Geldhof | <a class="aContact" href="Contact.php" class="Contact">Contact me</a></div>
+<div id="footer">&copy;2014 Naam hier | <a class="aContact" href="Contact.php" class="Contact">Contact me</a></div>
